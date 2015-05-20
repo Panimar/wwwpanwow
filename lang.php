@@ -1,0 +1,35 @@
+<?
+$L_WT = "ВЕБ-ТЕЛЕПОРТ";
+$L_alliance = "Альянса";
+$L_horde = "Орды";
+$L_error = "Ошибка";
+$L_errormysql = "подключения MySQL";
+$L_errorselectbase = "выбора базы";
+$L_errorline = "Вы не заполнили все поля";
+$L_erroraccount = "Не существующий аккаунт";
+$L_erroronline = "Персонаж в сети. Выйдите пожалуйста из игры";
+$L_errorcharacter = "Не существующий персонаж или персонаж находиться на другом аккаунте";
+$L_errorpassword = "Не верный пароль";
+$L_or = "или";
+$L_notice = "Важно";
+$L_noticeline1 = "персонаж должен быть вне игры";
+$L_noticeline2 = "персонаж телепортируется только в столицы своей фракции";
+$L_back = "Назад";
+$L_main = "Главная";
+$L_teleporting = "Телепортировать";
+$L_telewar = "Телепорт в данную локацию только для персонажей";
+$L_telein = "телепортирован в";
+$L_character = "Персонаж";
+$L_account = "Аккаунт";
+$L_password = "Пароль";
+$L_Stormwind = "Штормград";
+$L_Ironforge = "Стальгорн";
+$L_Darnassus = "Дарнас";
+$L_Exodar = "Экзодар";
+$L_Orgrimmar = "Оргриммар";
+$L_Thunder_Bluff = "Громовой утес";
+$L_Undercity = "Подгорож";
+$L_Silvermoon = "Луносвет";
+$L_Shattrath = "Шаттрат";
+$L_Dalaran = "Даларан";
+?>

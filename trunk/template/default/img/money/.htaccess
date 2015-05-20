@@ -1,0 +1,4 @@
+AddDefaultCharset UTF-8
+Options -Indexes
+DirectoryIndex /wow/module/error/index.php
+
